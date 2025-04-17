@@ -51,4 +51,12 @@ Other environment agnostic settings can be changed in `config/app.php`.
 The app skeleton uses [Milligram](https://milligram.io/) (v1.3) minimalist CSS
 framework by default. You can, however, replace it with any other library or
 custom styles.
-"# cakephp_cms" 
+"# cakephp_cms"
+
+
+Continue onde encontrar o texto:
+"Now, let’s add an action to our controller. Actions are controller methods that have routes connected to them. For example, when a user requests www.example.com/articles/index (which is also the same as www.example.com/articles), CakePHP will call the index method of your ArticlesController. This method should query the model layer, and prepare a response by rendering a Template in the View. The code for that action would look like this:"
+
+
+CMS Tutorial - Creating the Articles Controller
+https://book.cakephp.org/5/en/tutorials-and-examples/cms/installation.html
